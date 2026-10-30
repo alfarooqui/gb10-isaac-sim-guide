@@ -4,6 +4,7 @@ Getting **NVIDIA Isaac Sim 6.1** built from source and running on a **DGX Spark*
 (GB10 Grace-Blackwell, aarch64, sm_121), including every gotcha I hit and the fix.
 The GB10 software stack is new and the public docs assume x86 — this is a working,
 reproducible path on aarch64 + CUDA 13.
+<img width="1855" height="1038" alt="Isaac-sim" src="https://github.com/user-attachments/assets/da11c525-027a-4612-9d29-9ae33ca67d57" />
 
 ## Baseline
 - NVIDIA DGX Spark (GB10 Grace-Blackwell), aarch64
